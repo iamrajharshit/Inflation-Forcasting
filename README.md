@@ -1,6 +1,6 @@
 # Forecasting Inflation (Consumer Price Index) using LSTM (Long Short-Term Memory)
 
-## Crux of the Research
+## Crux of the Project
 * The project is carried out on the Economic Data of the United States of America because of the dominating and stable value of $.
 * This repository contains the code for the Machine Learning & Deep Learning-based Economy Inflation Prediction Model. The main parameter considered for measuring inflation is CPI (Consumer Price Index).
 * For reference, if CPI '24 = x and CPI '25 = y, then Inflation Rate from 2024-2025 = [(x-y)/x]*100.
